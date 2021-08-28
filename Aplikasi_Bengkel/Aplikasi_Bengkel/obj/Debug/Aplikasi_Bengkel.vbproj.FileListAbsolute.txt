@@ -1,0 +1,11 @@
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\bin\Debug\Aplikasi_Bengkel.exe.config
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\bin\Debug\Aplikasi_Bengkel.exe
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\bin\Debug\Aplikasi_Bengkel.pdb
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\bin\Debug\Aplikasi_Bengkel.xml
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.Resources.resources
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.vbproj.GenerateResource.Cache
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.exe
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.xml
+c:\users\catur warga computer\documents\visual studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.pdb
+C:\Users\CATUR WARGA COMPUTER\Documents\Visual Studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.Form3.resources
+C:\Users\CATUR WARGA COMPUTER\Documents\Visual Studio 2012\Projects\Aplikasi_Bengkel\Aplikasi_Bengkel\obj\Debug\Aplikasi_Bengkel.LoginForm.resources
